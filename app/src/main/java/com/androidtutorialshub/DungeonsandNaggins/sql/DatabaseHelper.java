@@ -1,4 +1,4 @@
-package com.androidtutorialshub.loginregister.sql;
+package com.androidtutorialshub.DungeonsandNaggins.sql;
 
 import android.content.ContentValues;
 import android.content.Context;
@@ -6,13 +6,13 @@ import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
 
-import com.androidtutorialshub.loginregister.model.User;
+import com.androidtutorialshub.DungeonsandNaggins.model.User;
 
 import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by lalit on 9/12/2016.
+ * Created by adam rossiter
  */
 public class DatabaseHelper extends SQLiteOpenHelper {
 
@@ -51,6 +51,7 @@ public class DatabaseHelper extends SQLiteOpenHelper {
     @Override
     public void onCreate(SQLiteDatabase db) {
         db.execSQL(CREATE_USER_TABLE);
+
     }
 
 

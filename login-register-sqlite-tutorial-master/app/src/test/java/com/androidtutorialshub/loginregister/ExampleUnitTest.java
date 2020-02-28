@@ -1,4 +1,4 @@
-package com.androidtutorialshub.loginregister;
+package com.androidtutorialshub.DungeonsandNaggins;
 
 import org.junit.Test;
 

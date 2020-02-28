@@ -21,11 +21,14 @@
     <string name="text_hello">Hello,</string>
     <string name="text_title">Dungeos and Naggins</string>
     <string name="title_activity_maps">Map</string>
-    <string name="Pub">
-MONDAY to THURSDAY: 10.30am – 11.30pm
-FRIDAY and SATURDAY: 10.30am – 12.30am
-SUNDAY: 12.30pm – 11.00pm
+    <string name="Open">
 
-FRIDAY: Dungeons and Dragons 19.30pm - 21. 30pm
-SATURDAY: Magic the gathering 18.30pm - 20.30pm</string>
+<bold>MONDAY</bold> to <bold>THURSDAY</bold>: <i>10.30am</i> – <i>11.30pm</i> \n
+<bold>FRIDAY</bold> to <bold>SATURDAY</bold>: <i>10.30am</i> – <i>12.30am</i> \n
+        <bold>SUNDAY</bold>: <i>12.30pm</i> – <i>11.00pm</i> \n
+
+</string>
+    <string name="Game">Dungeons and Dragons \n Magic The Gathering</string>
+
+
 </resources>

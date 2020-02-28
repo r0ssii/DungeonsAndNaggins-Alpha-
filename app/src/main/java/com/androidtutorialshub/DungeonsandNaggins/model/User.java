@@ -1,8 +1,5 @@
-package com.androidtutorialshub.loginregister.model;
+package com.androidtutorialshub.DungeonsandNaggins.model;
 
-/**
- * Created by lalit on 9/12/2016.
- */
 public class User {
 
     private int id;

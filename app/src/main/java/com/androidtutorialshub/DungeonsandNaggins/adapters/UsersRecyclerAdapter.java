@@ -1,4 +1,4 @@
-package com.androidtutorialshub.loginregister.adapters;
+package com.androidtutorialshub.DungeonsandNaggins.adapters;
 
 import androidx.appcompat.widget.AppCompatTextView;
 import androidx.recyclerview.widget.RecyclerView;
@@ -7,8 +7,8 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.androidtutorialshub.loginregister.R;
-import com.androidtutorialshub.loginregister.model.User;
+import com.androidtutorialshub.DungeonsandNaggins.R;
+import com.androidtutorialshub.DungeonsandNaggins.model.User;
 
 import java.util.List;
 

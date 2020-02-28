@@ -1,4 +1,4 @@
-package com.androidtutorialshub.loginregister.activities;
+package com.androidtutorialshub.DungeonsandNaggins.activities;
 
 import android.os.Bundle;
 import androidx.annotation.Nullable;
@@ -11,10 +11,10 @@ import androidx.appcompat.widget.AppCompatButton;
 import androidx.appcompat.widget.AppCompatTextView;
 import android.view.View;
 
-import com.androidtutorialshub.loginregister.R;
-import com.androidtutorialshub.loginregister.helpers.InputValidation;
-import com.androidtutorialshub.loginregister.model.User;
-import com.androidtutorialshub.loginregister.sql.DatabaseHelper;
+import com.androidtutorialshub.DungeonsandNaggins.R;
+import com.androidtutorialshub.DungeonsandNaggins.helpers.InputValidation;
+import com.androidtutorialshub.DungeonsandNaggins.model.User;
+import com.androidtutorialshub.DungeonsandNaggins.sql.DatabaseHelper;
 
 /**
  * Created by lalit on 8/27/2016.

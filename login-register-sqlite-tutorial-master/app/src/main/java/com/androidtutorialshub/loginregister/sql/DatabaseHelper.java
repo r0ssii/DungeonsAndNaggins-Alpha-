@@ -1,4 +1,4 @@
-package com.androidtutorialshub.loginregister.sql;
+package com.androidtutorialshub.DungeonsandNaggins.sql;
 
 import android.content.ContentValues;
 import android.content.Context;
@@ -6,7 +6,7 @@ import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
 
-import com.androidtutorialshub.loginregister.model.User;
+import com.androidtutorialshub.DungeonsandNaggins.model.User;
 
 import java.util.ArrayList;
 import java.util.List;

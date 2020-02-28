@@ -1,4 +1,4 @@
-package com.androidtutorialshub.loginregister.activities;
+package com.androidtutorialshub.DungeonsandNaggins.activities;
 
 import android.os.AsyncTask;
 import android.os.Bundle;
@@ -9,10 +9,10 @@ import androidx.recyclerview.widget.DefaultItemAnimator;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.androidtutorialshub.loginregister.R;
-import com.androidtutorialshub.loginregister.adapters.UsersRecyclerAdapter;
-import com.androidtutorialshub.loginregister.model.User;
-import com.androidtutorialshub.loginregister.sql.DatabaseHelper;
+import com.androidtutorialshub.DungeonsandNaggins.R;
+import com.androidtutorialshub.DungeonsandNaggins.adapters.UsersRecyclerAdapter;
+import com.androidtutorialshub.DungeonsandNaggins.model.User;
+import com.androidtutorialshub.DungeonsandNaggins.sql.DatabaseHelper;
 
 import java.util.ArrayList;
 import java.util.List;

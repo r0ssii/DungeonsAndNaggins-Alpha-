@@ -1,4 +1,4 @@
-package com.androidtutorialshub.loginregister.activities;
+package com.androidtutorialshub.DungeonsandNaggins.activities;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -12,9 +12,9 @@ import androidx.appcompat.widget.AppCompatTextView;
 import android.util.Log;
 import android.view.View;
 
-import com.androidtutorialshub.loginregister.R;
-import com.androidtutorialshub.loginregister.helpers.InputValidation;
-import com.androidtutorialshub.loginregister.sql.DatabaseHelper;
+import com.androidtutorialshub.DungeonsandNaggins.R;
+import com.androidtutorialshub.DungeonsandNaggins.helpers.InputValidation;
+import com.androidtutorialshub.DungeonsandNaggins.sql.DatabaseHelper;
 
 public class LoginActivity extends AppCompatActivity implements View.OnClickListener {
     private final AppCompatActivity activity = LoginActivity.this;
